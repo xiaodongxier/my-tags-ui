@@ -1,10 +1,18 @@
 * {
   font-family: 'PingFang SC', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: cursive;
   -webkit-font-smoothing: antialiased !important;
   -moz-osx-font-smoothing: grayscale !important;
 }
 
+/* 圆角优化 */
 .mdui-card {
-  box-shadow: inset 0 0 5px #c8c8c8;
+  box-shadow: inset 0 0 5px rgb(187 198 255);
   border-radius: 10px;
+  background: rgb(65 84 179 / 10%);
+}
+
+/* 关闭登陆按钮 */
+.mdui-toolbar > a .mdui-hidden-xs{
+  display: none;
 }
