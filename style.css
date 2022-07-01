@@ -1,9 +1,10 @@
 * {
-  font-family: 'PingFang SC', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+  font-family: 'PingFang SC', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased !important;
   -moz-osx-font-smoothing: grayscale !important;
 }
 
 .mdui-card {
   box-shadow: inset 0 0 5px #c8c8c8;
+  border-radius: 10px;
 }
