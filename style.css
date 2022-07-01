@@ -16,3 +16,20 @@
 .mdui-toolbar > a.mdui-hidden-xs{
   display: none !important;
 }
+
+/* 卡片标题 */
+.mdui-card-primary {
+  padding: 24px 16px 8px 16px;
+    border-bottom: 1px solid #4154b336;
+    padding-top: 12px !important;
+}
+
+/* 卡片简介 */
+.link-content {
+  -webkit-line-clamp:3;
+}
+
+/* 卡片简介字体 */
+.mdui-text-color-black-disabled, .mdui-text-color-theme-disabled {
+  color: rgba(0, 0, 0, 0.6) !important;
+}
