@@ -23,6 +23,10 @@
     border-bottom: 1px solid #4154b336;
     padding-top: 12px !important;
 }
+/* 卡片标题 -黑夜*/
+.mdui-theme-layout-dark .mdui-card-primary {
+  border-bottom: 1px solid #ffffff26;
+}
 
 /* 卡片简介 */
 .link-content {
@@ -30,6 +34,20 @@
 }
 
 /* 卡片简介字体 */
-.mdui-text-color-black-disabled, .mdui-text-color-theme-disabled {
+.mdui-text-color-black-disabled, 
+.mdui-text-color-theme-disabled {
   color: rgba(0, 0, 0, 0.6) !important;
 }
+
+/* 卡片简介字体 -黑夜*/
+.mdui-theme-layout-dark .mdui-text-color-black-disabled,
+.mdui-theme-layout-dark .mdui-text-color-theme-disable{
+  color: rgb(255 255 255 / 80%) !important;
+}
+
+
+/* 黑色风格-标题 */
+.mdui-theme-layout-dark .mdui-card {
+
+}
+
