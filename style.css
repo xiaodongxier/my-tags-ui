@@ -13,6 +13,6 @@
 }
 
 /* 关闭登陆按钮 */
-.mdui-toolbar > a .mdui-hidden-xs{
-  display: none;
+.mdui-toolbar > a.mdui-hidden-xs{
+  display: none !important;
 }
