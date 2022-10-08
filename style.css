@@ -1,8 +1,9 @@
 * {
-  font-family: 'PingFang SC', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-family: cursive;
+  /* font-family: 'PingFang SC', 'Helvetica Neue', Helvetica, Arial, sans-serif; */
+  /* font-family: cursive; */
   -webkit-font-smoothing: antialiased !important;
   -moz-osx-font-smoothing: grayscale !important;
+  font-family: Yuppy,'雅痞-简','雅痞-繁',MiSans,'阿里巴巴普惠体 2.0','造字工房悦黑（非商用）','汉仪晓波折纸体简','锐字云字库准圆体1.0',XHei,新丽黑,文泉驿等宽正黑,文泉驿正黑,新丽黑,微软雅黑,Arial,SimSun,sans-serif;
 }
 
 /* 圆角优化 */
