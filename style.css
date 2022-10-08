@@ -1,4 +1,4 @@
-* {
+*:not(i) {
   /* font-family: 'PingFang SC', 'Helvetica Neue', Helvetica, Arial, sans-serif; */
   /* font-family: cursive; */
   -webkit-font-smoothing: antialiased !important;
